@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Resume - Jay Amgalan
 url: 'http://jantsankhorloo.github.io'
 baseurl:  #change it according to your repository name
 
@@ -20,10 +20,9 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: jamgalan@purdue.edu
 phone: 765 490 4293
-website:  #do not add http://
 linkedin: jantsankhorloo-amgalan-878684113
 github: jantsankhorloo
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-105697187-1
 #Update all the sections by editing the files inside _includes folder.
